@@ -14,6 +14,7 @@ Estudando e Praticando para fortalecer Aprendizado Abaixo Passo a Passo
 <p> Logo C#</p>
 
 <br>
+
 # Tecnologia
 
 Esse projeto foi desenvolvindo com as seguintes tecnologias:
@@ -21,4 +22,11 @@ Esse projeto foi desenvolvindo com as seguintes tecnologias:
 - IDE VisualStudio Code
 - C#
 - Git e Github
+
+# Autor
+
+_Valdemar T.T_
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/VALDEMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdemar-teider-5336b394/)
   
